@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skřítek</string>
+    
+    <string name="login">Přihlášení</string>
+    <string name="planets">Planety</string>
+    
+    <string name="action_settings">Nastavení</string>
+    <string name="action_about">O aplikaci</string>
+    <string name="action_create">Vytvořit</string>
+    <string name="action_edit">Upravit</string>
+    <string name="action_delete">Smazat</string>
+    <string name="action_download">Stáhnout</string>
+    <string name="action_uninstall">Odinstalovat</string>
+    <string name="action_stats">Statistiky</string>
+    <string name="action_cancel">Zrušit</string>
+    <string name="action_cancel_changes">Zrušit změny</string>
+    <string name="action_accept">Potvrdit</string>
+    
+    <string name="delete_dialog">Opravdu chcete smazat uživatele?</string>
+    <string name="empty_name_dialog">Uživatelské jméno není vyplněno.</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    
+    <string name="name">Jméno</string>
+    <string name="date_of_born">Datum narození</string>
+    <string name="icon">Ikona</string>
+    <string name="gender">Pohlaví</string>
+    <string name="boy">Chlapec</string>
+    <string name="girl">Dívka</string>
+    <string name="years">let</string>
+    
+	<string name="notification_new_planet_short">"New planet"</string>
+    <string name="notification_new_planet">"New planet has been published"</string>
+
+    <string name="update">"Aktualizace"</string>
+    <string name="update_preference">"Povolit automatické aktualizace?"</string>
+</resources>
