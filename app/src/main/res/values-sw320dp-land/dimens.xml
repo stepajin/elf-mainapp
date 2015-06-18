@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="user_image">150dp</dimen>
+    <dimen name="username">40sp</dimen>
+    <dimen name="username_margin_bottom">10dp</dimen>
+    
+    <dimen name="add_new_height">150dp</dimen>
+    <dimen name="add_new_width">200dp</dimen>
+    
+	<dimen name="user_editation_titles">35sp</dimen>
+	<dimen name="user_editation_titles_margin_top">15dp</dimen>
+    <dimen name="username_edit_width">200dp</dimen>
+    <item name="datepicker_x_scale" type="dimen" format="float">0.7</item>
+    <item name="datepicker_y_scale" type="dimen" format="float">0.7</item>
+	<dimen name="gallery_height">60dp</dimen>
+    <dimen name="gallery_margin_top">0dp</dimen>
+	<dimen name="gender_picker_margin_top">20dp</dimen>
+	<dimen name="user_age_margin_top">-10dp</dimen>
+   
+	<dimen name="planet_image">120dp</dimen>
+    <dimen name="planetname">40sp</dimen>
+    <dimen name="planetname_margin_bottom">10dp</dimen>
+    <dimen name="lock_image">80dp</dimen>
+    <dimen name="selected_user_image">80dp</dimen>
+    
+</resources>
